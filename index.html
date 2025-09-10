@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Test Site — Products</title>
+  </head>
+  <body>
+    <h1>Products catalog</h1>
+
+    <div class="grid">
+      <div class="product" id="p1" data-sku="P-001">
+        <h2 class="title">Product One</h2>
+        <p class="desc">A great product.</p>
+        <span class="price">19.99</span>
+        <img src="images/product1.jpg" alt="Product One image" />
+        <a class="buy" href="/buy?p=P-001">Buy now</a>
+      </div>
+
+      <div class="product" id="p2" data-sku="P-002">
+        <h2 class="title">Product Two</h2>
+        <p class="desc">Better for outdoors.</p>
+        <span class="price">29.99</span>
+        <img src="images/product2.jpg" alt="Product Two image" />
+        <a class="buy" href="/buy?p=P-002">Buy now</a>
+      </div>
+
+      <div class="product" id="p3" data-sku="P-003">
+        <h2 class="title">Product Three</h2>
+        <p class="desc">Budget friendly.</p>
+        <span class="price">9.99</span>
+        <img src="images/product3.jpg" alt="Product Three image" />
+        <a class="buy" href="/buy?p=P-003">Buy now</a>
+      </div>
+    </div>
+
+    <h2>Stock table</h2>
+    <table id="stock">
+      <thead>
+        <tr>
+          <th>SKU</th>
+          <th>Name</th>
+          <th>Qty</th>
+          <th>Location</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>P-001</td>
+          <td>Product One</td>
+          <td>12</td>
+          <td>Colombo</td>
+        </tr>
+        <tr>
+          <td>P-002</td>
+          <td>Product Two</td>
+          <td>0</td>
+          <td>Galle</td>
+        </tr>
+        <tr>
+          <td>P-003</td>
+          <td>Product Three</td>
+          <td>55</td>
+          <td>Kandy</td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
