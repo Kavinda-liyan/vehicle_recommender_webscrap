@@ -41,7 +41,10 @@ def parse_vehicle_title(title):
         words = words[:-1]
 
     #condition 
-    condition_keywords = ["new", "brandnew", "unregistered","B/New","Brand New","B-New","used","secondhand","second hand","2nd hand","2nd owner","2nd Owner"]
+    condition_keywords = ["new", "brandnew", "unregistered","unregister","B/New","Brand New",
+                          "B-New","used","secondhand","second hand","2nd hand","2nd owner","2nd Owner"
+                          ,"Sedan","ANNIVERSARY","Anniversary White","Full Spec","1st","1st Owner","1st owner"
+                          ,"Low Mileage","(Low Mileage)","LED","B/NEW","Safety","Company maintained","Highest Spec"]
     if words and words[-1].lower() in condition_keywords:
         condition = words[-1]  # keep original case
         words = words[:-1]
@@ -130,8 +133,13 @@ for label, (min_m, max_m) in mileage_ranges.items():
     avg_prices.drop(columns=["Price"], inplace=True)
     df = df.merge(avg_prices, on=["Manufacturer", "Model"], how="left")
 
-df.drop_duplicates(subset=["Manufacturer", "Model", "Year"], inplace=True)
+# Normalize case for comparison
+df["Model_norm"] = df["Model"].str.lower().str.strip()
+df["Manufacturer_norm"] = df["Manufacturer"].str.lower().str.strip()
+
+df.drop_duplicates(subset=["Manufacturer_norm", "Model_norm", "Year"], inplace=True)
 df = df.sort_values(by=["Manufacturer", "Year", "Model"], ascending=[True, False, True])
+df.drop(columns=["Manufacturer_norm", "Model_norm"], inplace=True)
 
 df.reset_index(drop=True, inplace=True)
 df.to_csv("./datasets/petrol_vehicles_c.csv", index=False)
