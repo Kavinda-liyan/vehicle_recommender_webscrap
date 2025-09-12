@@ -11,6 +11,22 @@ noise_words = [
     "Auto", "Manual", "Turbo", "Coupe", "SUV"
 ]
 
+def clean_price(price):
+    if not price:
+        return None
+    match = re.search(r"[\d,]+", price)
+    if match:
+        return int(match.group().replace(",", ""))
+    return None
+
+def clean_mileage(mileage):
+    if not mileage:
+        return None
+    match = re.search(r"[\d,]+", mileage)
+    if match:
+        return int(match.group().replace(",", ""))
+    return None
+
 def parse_vehicle_title(title):
     if not title:
         return {"Manufacturer": None, "Model": None, "Year": None, "Condition": None}
@@ -25,7 +41,7 @@ def parse_vehicle_title(title):
         words = words[:-1]
 
     #condition 
-    condition_keywords = ["new", "brandnew", "unregistered","B/New","Brand New","B-New"]
+    condition_keywords = ["new", "brandnew", "unregistered","B/New","Brand New","B-New","used","secondhand","second hand","2nd hand","2nd owner","2nd Owner"]
     if words and words[-1].lower() in condition_keywords:
         condition = words[-1]  # keep original case
         words = words[:-1]
@@ -34,7 +50,7 @@ def parse_vehicle_title(title):
     if len(words) > 1:
         first_two = f"{words[0]} {words[1]}"
         if first_two.lower() in [m.lower() for m in two_word_manufacturers]:
-            # Match with the original casing from our list
+            
             manufacturer = next(m for m in two_word_manufacturers if m.lower() == first_two.lower())
             words = words[2:]
         else:
@@ -68,14 +84,22 @@ while True:
         title = title_tag.text.strip() if title_tag else None
 
         price_tag = item.find("div", class_="price--3SnqI")
-        price = price_tag.text.strip() if price_tag else None
+        price = clean_price(price_tag.text.strip()) if price_tag else None
 
-       
+        mileage_tag = item.find("div", class_="details--1GUIn")
+        if mileage_tag:
+            match = re.search(r"[\d,]+ km", mileage_tag.text)
+            mileage = clean_mileage(match.group()) if match else None
+        else:
+            mileage = None
+
         parsed = parse_vehicle_title(title)
         parsed["Price"] = price
+        parsed["Mileage"] = mileage
 
         diesel_vehicles.append(parsed)
         print(parsed)
+
 
     print(f"Scraped page {page}\n")
     page += 1
@@ -85,11 +109,30 @@ while True:
 
 print(f"Total diesel vehicles found: {len(diesel_vehicles)}")
 
-# Save results to CSV
+#CSV
 df = pd.DataFrame(diesel_vehicles)
+df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
+df = df[df["Year"] >= 2000]
+df = df.sort_values(by=["Manufacturer", "Year","Model"], ascending=[True, False, True])
+
+#Milage Ranges
+mileage_ranges = {
+    "0-20k km": (0, 20000),
+    "20k-50k km": (20000, 50000),
+    "50k-100k km": (50000, 100000),
+    "100k+ km": (100000, float('inf'))
+}
+
+for label, (min_m, max_m) in mileage_ranges.items():
+    df_range = df[(df["Mileage"] >= min_m) & (df["Mileage"] <= max_m)]
+    avg_prices = df_range.groupby(["Manufacturer", "Model"])["Price"].mean().reset_index()
+    avg_prices[f"Average Price ({label})"] = avg_prices["Price"].round(0).astype('Int64')  
+    avg_prices.drop(columns=["Price"], inplace=True)
+    df = df.merge(avg_prices, on=["Manufacturer", "Model"], how="left")
 
 df.drop_duplicates(subset=["Manufacturer", "Model", "Year"], inplace=True)
+df = df.sort_values(by=["Manufacturer", "Year", "Model"], ascending=[True, False, True])
 
 df.reset_index(drop=True, inplace=True)
-df.to_csv("diesel_vehicles_c.csv", index=False)
+df.to_csv("./datasets/diesel_vehicles_c.csv", index=False)
 print(f"Cleaned data saved to diesel_vehicles.csv with {len(df)} unique vehicles")
