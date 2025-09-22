@@ -1,4 +1,4 @@
-vehicle_map={
+vehicle_map_1={
     "Audi":{
         "seating_capacity":{"a1":5,"a3":5,"a4":5,"a5":5,"a6":5,"a7":5,"a8":5,"q2":5,"q3":5,"q4":5,"q5":5,"q7":7,"q8":5,"e-tron":5},
         "body_type":{"sedan":"sedan","a1":"hatchback","a3":"hatchback","a3 sedan":"sedan","a3 tfsi sedan":"sedan","a3 sportsback":"hatchback",
@@ -183,9 +183,10 @@ vehicle_map={
         "ground_clearance":{}
     },
     "Mitsubishi":{
-        "seating_capacity":{"attrage":5,"delica mini":4,"eclipse cross":5,"ek custom":4,"ek space":4,"ek wagon":4,"ek x":5,"l200":5},
+        "seating_capacity":{"attrage":5,"delica mini":4,"eclipse cross":5,"ek custom":4,"ek space":4,"ek wagon":4,"ek x":5,"l200":5,"lancer":5,"montero":7,
+                            "outlander":7,"pajero":7,"triton gsr":5,"xpander":7},
         "body_type":{"attrage":"sedan","delica mini":"kei/minivan","eclipse cross":"suv","ek custom":"hatchback","ek space":"hatchback","ek wagon":"hatchback",
-                     "ek x":"suv","l200":"pickup"},
+                     "ek x":"suv","l200":"pickup","lancer":"sedan","montero":"suv","outlander":"suv","pajero":"suv","triton gsr":"pickup","xpander":"muv"},
         "ground_clearance":{}
     },
     
