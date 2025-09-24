@@ -36,14 +36,7 @@ vehicle_map_1 = {
             "q8": "suv",
             "e-tron": "suv/suv sportsback",
         },
-        "ground_clearance": {
-            "a1": "121-160",
-            "a3": "112-165",
-            "a4": "110-170",
-            "a5": "118-165",
-            "a6": "118-185",
-            "a7": "106-145",
-        },
+      
     },
     "BMW": {
         "seating_capacity": {
@@ -118,7 +111,7 @@ vehicle_map_1 = {
             "x7": "suv",
             "z4": "roadster",
         },
-        "ground_clearance": {},
+       
     },
     "BYD": {
         "seating_capacity": {"e6": 5, "seal": 5, "sealion": 5, "atto": 5},
@@ -128,22 +121,22 @@ vehicle_map_1 = {
             "sealion": "suv",
             "atto": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Chery": {
         "seating_capacity": {"qq": 4, "qq 308": 5, "tiggo": 5},
         "body_type": {"qq": "hatchback", "qq 308": "hatchback", "tiggo": "suv"},
-        "ground_clearance": {},
+       
     },
     "Chevrolet": {
         "seating_capacity": {"cruze": 5},
         "body_type": {"cruze": "hatchback"},
-        "ground_clearance": {},
+       
     },
     "DFSK": {
         "seating_capacity": {"580": 7, "glory": 7},
         "body_type": {"580": "suv", "glory": "suv"},
-        "ground_clearance": {},
+       
     },
     "Daihatsu": {
         "seating_capacity": {
@@ -164,22 +157,22 @@ vehicle_map_1 = {
             "terios": "suv",
             "thor": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Datsun": {
         "seating_capacity": {"redi-go": 5},
         "body_type": {"redi-go": "hatchback"},
-        "ground_clearance": {},
+       
     },
     "Dongfeng": {
         "seating_capacity": {"box": 5},
         "body_type": {"box": "suv"},
-        "ground_clearance": {},
+       
     },
     "Fiat": {
         "seating_capacity": {"punto": 5},
         "body_type": {"punto": "hatchback"},
-        "ground_clearance": {},
+       
     },
     "Ford": {
         "seating_capacity": {
@@ -202,7 +195,7 @@ vehicle_map_1 = {
             "wildtrak": "pickup",
             "raptor": "pickup",
         },
-        "ground_clearance": {},
+       
     },
     "Honda": {
         "seating_capacity": {
@@ -256,7 +249,7 @@ vehicle_map_1 = {
             "n-wgn": "kei/hatchback",
             "step wagon": "minivan",
         },
-        "ground_clearance": {},
+       
     },
     "Hyundai": {
         "seating_capacity": {
@@ -291,32 +284,32 @@ vehicle_map_1 = {
             "terracan": "suv",
             "venue": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Isuzu": {
         "seating_capacity": {"d-max": 5, "mu-x": 7},
         "body_type": {"d-max": "pickup", "mu-x": "suv"},
-        "ground_clearance": {},
+       
     },
     "JAC": {
         "seating_capacity": {"t9": 5},
         "body_type": {"t9": "pickup"},
-        "ground_clearance": {},
+       
     },
     "Jaecoo": {
         "seating_capacity": {"j7 4wd": 5, "j6 ev": 5, "j7 phev": 5},
         "body_type": {"j7 4wd": "suv", "j6 ev": "suv", "j7 phev": "suv"},
-        "ground_clearance": {},
+       
     },
     "JMEV": {
         "seating_capacity": {"elight": 5},
         "body_type": {"elight": "sedan/coupe"},
-        "ground_clearance": {},
+       
     },
     "Jaguar": {
         "seating_capacity": {"e-pace": 5, "f-pace": 5, "xf": 5},
         "body_type": {"e-pace": "compact suv", "f-pace": "suv", "xf": "sedan"},
-        "ground_clearance": {},
+       
     },
     "Jeep": {
         "seating_capacity": {
@@ -335,7 +328,7 @@ vehicle_map_1 = {
             "wrangler gladiator": "pickup",
             "wrangler rubicon": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Kia": {
         "seating_capacity": {
@@ -368,7 +361,7 @@ vehicle_map_1 = {
             "sportage": "suv",
             "stonic": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Land Rover": {
         "seating_capacity": {
@@ -392,7 +385,7 @@ vehicle_map_1 = {
             "freelander": "suv",
             "range": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Lexus": {
         "seating_capacity": {
@@ -429,7 +422,7 @@ vehicle_map_1 = {
             "rx400h": "suv",
             "rx450h": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "MG": {
         "seating_capacity": {"ep plus": 5, "mg4 ": 5, "zs": 5},
@@ -439,7 +432,7 @@ vehicle_map_1 = {
             "zs ev": "suv",
             "zs": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Mahindra": {
         "seating_capacity": {
@@ -462,7 +455,7 @@ vehicle_map_1 = {
             "xuv 3xo": "suv",
             "xuv500": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Maruti Suzuki": {
         "seating_capacity": {"800": 4, "alto": 5, "ritz": 5, "wagon r": 5, "zen": 5,"a-star":5,"baleno":5,"celerio":5,"estilo":5},
@@ -507,7 +500,7 @@ vehicle_map_1 = {
             "cx-5": "suv",
             "flair": "kei/hatchback",
         },
-        "ground_clearance": {},
+       
     },
     "Mercedes Benz": {
         "seating_capacity": {
@@ -576,7 +569,7 @@ vehicle_map_1 = {
             "s580": "sedan",
             "x250d": "pickup",
         },
-        "ground_clearance": {},
+       
     },
     "Micro": {
         "seating_capacity": {
@@ -609,7 +602,7 @@ vehicle_map_1 = {
             "tivoli": "suv",
             "trend": "hatchback",
         },
-        "ground_clearance": {},
+       
     },
     "Mitsubishi": {
         "seating_capacity": {
@@ -644,6 +637,6 @@ vehicle_map_1 = {
             "triton gsr": "pickup",
             "xpander": "muv",
         },
-        "ground_clearance": {},
+       
     },
 }

@@ -57,12 +57,12 @@ vehicle_map_2 = {
             "tiida latio": "sedan",
             "x-trail": "suv",
         },
-        "ground_clearance": {"almera": {"min": 121, "max": 136}},
+       
     },
     "Perodua": {
         "seating_capacity": {"axia": 5, "beeza": 5, "viva elite": 5},
         "body_type": {"axia": "hatchback", "beeza": "sedan", "viva elite": "hatchback"},
-        "ground_clearance": {},
+       
     },
     "Peugeot": {
         "seating_capacity": {
@@ -78,14 +78,14 @@ vehicle_map_2 = {
         "body_type": {
             "2008": "suv",
             "3008": "suv",
-            "306 wagon": "wagon/station",
+            "306 wagon": "wagon/station wagon",
             "306": "sedan",
             "406": "sedan",
             "5008": "suv",
             "508": "sedan",
             "e-2008": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Porsche": {
         "seating_capacity": {
@@ -100,12 +100,12 @@ vehicle_map_2 = {
             "cayenne": "suv",
             "panamera": "sedan",
         },
-        "ground_clearance": {},
+       
     },
     "Renault": {
         "seating_capacity": {"kwid": 5},
         "body_type": {"kwid": "hatchback"},
-        "ground_clearance": {},
+       
     },
     "SsangYong ": {
         "seating_capacity": {
@@ -122,12 +122,12 @@ vehicle_map_2 = {
             "tivoli": "suv",
             "torres ev": "suv",
         },
-        "ground_clearance": {},
+       
     },
     "Subaru": {
         "seating_capacity": {"crosstrek": 5, "xv": 5},
         "body_type": {"crosstrek": "suv", "xv": "suv"},
-        "ground_clearance": {},
+       
     },
     "Suzuki": {
         "seating_capacity": {
@@ -162,6 +162,102 @@ vehicle_map_2 = {
             "wagon r":"hatchback",
             "xbee":"suv"
         },
-        "ground_clearance": {},
+       
     },
-}
+    "Tata":{
+        "seating_capacity":{
+            "207d":2,"nano":4,
+            "nexon":5,
+            "tiago":5,
+            "xenon":2
+        },
+        "body_type":{
+            "207d":"pickup",
+            "nano":"hatchback",
+            "nexon":"suv",
+            "tiago":"hatchback",
+            "xenon":"pickup"
+        },
+        "ground_clearance":{
+
+        }
+    },
+    "Tesla":{
+        "seating_capacity":{
+            "model 3":5,
+            "model s":5,
+            "model x":7,
+            "model y":7
+        },
+        "body_type":{
+            "model 3":"sedan",
+            "model s":"sedan",
+            "model x":"suv",
+            "model y":"suv"
+        },
+        "ground_clearance":{
+
+        }
+    },
+    "Toyota":{
+        "seating_capacity":{
+            "4runner":5,
+            "allion":5,
+            "alphard":7,
+            "aqua":5,
+            "auris":5,
+            "avanza":7,
+            "axio":5,
+            "belta":5,
+            "camry":5,
+            "c-hr":5,
+            "corolla":5,
+            "crown athlete":5,
+            "crown estate":5,
+            "crown majesta":5,
+            "crown sport":5,
+            "esquire":7,
+            "fielder":5,
+            "fortuner":7,
+            "harrier":5,
+            "hilux":5,
+            "hyryder":5,
+            "ist":5,
+            "land cruiser":7,
+            "land cruiser prado":7,
+            
+        },
+        "body_type":{
+            "4runner":"suv",
+            "allion":"sedan",
+            "alphard":"mpv/minivan",
+            "aqua":"hatchback",
+            "auris":"hatchback",
+            "avanza":"mpv/minivan",
+            "axio":"sedan",
+            "axio fielder g":"station wagon",
+            "belta":"sedan",
+            "camry":"sedan",
+            "c-hr":"suv/crossover",
+            "corolla":"sedan",
+            "corolla cross":"suv",
+            "corolla wxb":"wagon/station wagon",
+            "crown athlete":"sedan",
+            "crown estate":"wagon/station wagon",
+            "crown majesta":"sedan",
+            "crown sport":"suv",
+            "esquire":"mpv/minivan",
+            "fielder":"station wagon",
+            "fortuner":"suv",
+            "harrier":"suv",
+            "hilux":"pickup",
+            "hyryder":"suv",
+            "ist":"hatchback",
+            "land cruiser":"suv",
+            "land cruiser prado":"suv",
+        },
+        "ground_clearance":{
+
+        }
+    }      
+} 
