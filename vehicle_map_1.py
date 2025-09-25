@@ -160,8 +160,8 @@ vehicle_map_1 = {
        
     },
     "Datsun": {
-        "seating_capacity": {"redi-go": 5},
-        "body_type": {"redi-go": "hatchback"},
+        "seating_capacity": {"redi go": 5},
+        "body_type": {"redi go": "hatchback"},
        
     },
     "Dongfeng": {
@@ -243,7 +243,9 @@ vehicle_map_1 = {
             "fit shuttle gp2 navi": "wagon",
             "freed": "minivan",
             "grace": "sedan",
-            "insight": "sedan",
+            "insight": "liftback",
+            "insight ze2": "liftback",
+            
             "n-box": "kei / hatchback",
             "n-one": "kei / hatchback",
             "n-wgn": "kei / hatchback",
