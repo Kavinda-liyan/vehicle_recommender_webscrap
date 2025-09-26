@@ -1,0 +1,607 @@
+Manufacturer,Model,Fuel Type,Body Type,Seating Capacity,Ground Clearance (range),Body Type 1 (sedan),Body Type 2 (hatchback),Body Type 3 (suv),Body Type 4 (mpv),Body Type 5 (pickup),Body Type 6 (coupe),Body Type 7 (convertible),Body Type 8 (wagon),Body Type 9 (van),Body Type 10 (crossover),Body Type 11 (kei / microvan),Body Type 12 (roadster),Body Type 13 (other),Body Type 14 (liftback),Body Type 15 (mpv / minivan),City/Urban,Suburban/Normal,Mid Off-Road,Off-Road/Hilly Terrain,Year
+Audi,a1,Petrol,hatchback,5,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016–2018
+Audi,a1 tfsi,Petrol,hatchback,5,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Audi,a1 tfsi 25,Petrol,hatchback,5,136,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Audi,a1 tfsi s-line,Petrol,hatchback,5,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a3,Petrol,hatchback,5,116,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Audi,a3,Petrol,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023–2024
+Audi,a3 30 tfsi,Petrol,hatchback,5,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Audi,a3 rs3,Petrol,hatchback,5,116,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a3 s-line,Petrol,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2018,2024"
+Audi,a3 sedan,Hybrid,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Audi,a3 sportback advanced,Petrol,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Audi,a3 sportback premium,Petrol,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Audi,a3 sportback s-line,Hybrid,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Audi,a3 sportsback,Petrol,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2017,2023"
+Audi,a3 tfsi,Petrol,hatchback,5,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2018,2023,2024"
+Audi,a3 tfsi s-line,Petrol,hatchback,5,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a3 tfsi sedan,Petrol,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Audi,a3 tfsi sportback,Petrol,hatchback,5,112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Audi,a4,Diesel,sedan / wagon,5,129,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2011
+Audi,a4,Petrol,sedan / wagon,5,108,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2012
+Audi,a4 40tfsi,Petrol,sedan/wagon,5,108,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2016
+Audi,a4 b8.5 quattro,Petrol,sedan/wagon,5,154,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2012
+Audi,a4 s-line,Petrol,sedan/wagon,5,129,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a4 tdi,Diesel,sedan/wagon,5,108,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2012
+Audi,a4 tfsi,Petrol,sedan/wagon,5,108,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2016
+Audi,a5,Petrol,sedan,5,119,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a5 s-line,Petrol,sedan,5,119,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018–2019
+Audi,a5 s-line cabriolet,Petrol,sedan,5,119,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Audi,a6,Diesel,sedan / wagon,5,182,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,2013
+Audi,a6,Petrol,sedan / wagon,5,182,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,"2012,2016"
+Audi,a6 tdi,Diesel,sedan/wagon,5,182,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,1,0,"2012,2014"
+Audi,a6 tfsi,Petrol,sedan/wagon,5,140,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2007
+Audi,a7 3.0t quattro,Petrol,hatchback/hatchback sportback,5,113,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Audi,e-tron gt sport edition,Petrol,suv/suv sportback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Audi,q2,Petrol,suv,5,144,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017–2019
+Audi,q2 s-line,Petrol,suv,5,144,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Audi,q2 tfsi,Petrol,suv,5,144,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017–2018
+Audi,q3,Petrol,suv / suv sportsback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2013,2018,2019,2022"
+Audi,q3 premium,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Audi,q3 s-line,Electric,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2024
+Audi,q3 s-line,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Audi,q3 s-line quattro,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Audi,q3 s-line sportback,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Audi,q3 s-line sportsback,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Audi,q3 s-line tfsi,Petrol,suv/suv sportback,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Audi,q4,Electric,suv / suv sportsback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Audi,q4 e-tron,Electric,suv/suv sportback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Audi,q4 e-tron s-line,Electric,suv/suv sportback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Audi,q4 e-tron s-line sports back,Electric,suv/suv sportback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Audi,q4 etron 40,Electric,suv/suv sportback,5,176,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2024
+Audi,q5 quattro,Petrol,suv/suv sportback,5,202,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Audi,q5 quattros s-line tfsi,Petrol,suv/suv sportback,5,202,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2012
+Audi,q7 platinum edition,Petrol,suv,7,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Audi,q7 quattro,Petrol,suv,7,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2011,2016,2017,2025"
+Audi,q7 quattro tfsi,Petrol,suv,7,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Audi,q7 quattro tfsi 40,Petrol,suv,7,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Audi,q7 s-line,Petrol,suv,7,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2017
+Audi,q8 e-tron,Electric,suv/suv sportback,5,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Audi,q8 e-tron s-line 50 quattro,Electric,suv/suv sportback,5,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+BMW,218i gran m-sport,Petrol,coupe,5,152,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+BMW,316i,Petrol,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+BMW,318i,Petrol,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2017,2018,2020"
+BMW,318i f-30 m-sport,Petrol,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+BMW,318i f-80 m-sport,Petrol,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+BMW,318i m-sport,Petrol,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017–2019
+BMW,320d,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011–2014
+BMW,320d e-90,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+BMW,320d f-30,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+BMW,320d m-sport,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+BMW,430i gran m-sport,Petrol,coupe/gran coupe,5,127,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+BMW,520d,Diesel,sedan / touring,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011–2016
+BMW,520d f-10,Diesel,sedan/touring,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2013,2015"
+BMW,520d gt,Diesel,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+BMW,520d gt m-sport,Diesel,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+BMW,520d lci,Diesel,sedan/touring,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+BMW,520d m-sport,Diesel,sedan/touring,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2013,2015,2019"
+BMW,520d twin,Diesel,sedan/touring,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012–2013
+BMW,520i m-sport,Petrol,sedan/touring,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+BMW,520i m-sport pro,Hybrid,sedan/touring,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+BMW,523i,Petrol,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2011,2024"
+BMW,523i lci,Petrol,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2007
+BMW,523i m-sport,Petrol,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+BMW,523i m5 kitted,Petrol,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2010
+BMW,530e,Hybrid,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+BMW,530e g-30,Hybrid,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018–2019
+BMW,530e m-sport,Hybrid,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2018,2025"
+BMW,530i m-sport,Petrol,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017–2018
+BMW,535i active 5,Hybrid,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+BMW,725d,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+BMW,730ld,Diesel,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+BMW,740li,Petrol,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+BMW,740li m-sport,Petrol,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+BMW,active 7,Hybrid,sedan,5,144,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+BMW,i3,Electric,hatchback,4,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2013,2014,2015,2017"
+BMW,i5 m-sport,Electric,sedan,5,137,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+BMW,i7,Electric,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+BMW,i7 m-sport,Electric,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+BMW,i7 x,Electric,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+BMW,i8,Hybrid,coupe / roadster,4,117,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2016
+BMW,i8,Petrol,coupe / roadster,4,117,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2018
+BMW,i8 m-sport,Petrol,coupe/roadster,4,117,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,2018
+BMW,i8 roadster,Hybrid,roadster,2,117,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2019
+BMW,ix xdrive40,Electric,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+BMW,ix xdrive40 m-sport,Electric,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+BMW,m760 575bhp,Petrol,sedan,5,136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+BMW,mini cooper,Petrol,hatchback,4,130,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+BMW,mini cooper chili pack,Petrol,hatchback,4,130,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+BMW,mini cooper sport,Petrol,hatchback,4,130,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2025
+BMW,x1,Diesel,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011
+BMW,x1,Petrol,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2017,2018,2019,2025"
+BMW,x1 20i m-sport,Hybrid,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+BMW,x1 20i m-sport,Petrol,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+BMW,x1 m-sport,Petrol,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2016,2018,2019,2024"
+BMW,x1 s-drive f48,Petrol,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+BMW,x1 x-drive 25e m-sport,Petrol,suv,5,189,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+BMW,x2 18i m-sport,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+BMW,x2 m-sport,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+BMW,x2 x-liner,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+BMW,x3,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2012–2014
+BMW,x3,Petrol,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+BMW,x3 20d,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+BMW,x3 20d xdrive,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+BMW,x3 m-sport,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+BMW,x5,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+BMW,x5,Hybrid,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+BMW,x5,Petrol,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+BMW,x5 e-drive,Electric,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+BMW,x5 e-drive,Hybrid,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2016,2025"
+BMW,x5 e-drive 40e m-sport,Hybrid,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016–2017
+BMW,x5 e-drive m-sport,Hybrid,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2018,2025"
+BMW,x5 m-sport,Hybrid,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+BMW,x5 m-sport,Petrol,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016–2017
+BMW,x5 m-sport e-drive,Petrol,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+BMW,x6 m 4400cc v8,Petrol,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+BMW,x7 40d m-sport,Hybrid,suv,7,221,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+BMW,x7 m-sport,Petrol,suv,7,221,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+BMW,x7 x-drive 40d m-sport,Diesel,suv,7,221,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+BMW,z4 roadster s-drive 35i,Petrol,roadster,2,114,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,2012
+BYD,atto 3,Electric,suv,5,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024–2025
+BYD,atto 3 superior,Electric,suv,5,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+BYD,e6,Electric,sedan / hatchback,5,145,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+BYD,seal,Electric,sedan,5,120,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+BYD,sealion 6,Hybrid,suv,5,173,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Chery,qq,Petrol,hatchback,4,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2011"
+Chery,qq 308,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Chery,qq ke,Petrol,hatchback,4,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Chery,tiggo 4 pro,Petrol,suv,5,186,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+DFSK,glory 330,Diesel,suv,7,170,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2021"
+DFSK,glory 580,Petrol,suv,7,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2019,2021,2022"
+DFSK,glory i-auto,Petrol,suv,7,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2021–2024
+Daihatsu,mira,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2016,2023,2024"
+Daihatsu,mira es,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2018,2023,2024,2025"
+Daihatsu,mira es g,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Daihatsu,mira es l,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022–2025
+Daihatsu,mira es s,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Daihatsu,mira es x,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Daihatsu,mira g,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2023,2025"
+Daihatsu,mira l,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2025
+Daihatsu,mira l sa3,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Daihatsu,mira la300,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Daihatsu,mira la350,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Daihatsu,mira x,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022–2025
+Daihatsu,move,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+Daihatsu,move custom,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,move l,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,move l grade,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,move x,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,rocky,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2022,2025"
+Daihatsu,rocky,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Daihatsu,rocky e-smart,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Daihatsu,rocky g,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Daihatsu,rocky g hev,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2025
+Daihatsu,taft,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2023,2025"
+Daihatsu,taft,Petrol,suv,5,192,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Daihatsu,taft g,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2025
+Daihatsu,taft x,Hybrid,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Daihatsu,taft x,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Daihatsu,tanto custom x,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Daihatsu,terios,Petrol,suv,7,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2007
+Daihatsu,terios,Petrol,suv,7,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011–2012
+Daihatsu,terios premium,Petrol,suv,7,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Daihatsu,thor,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Daihatsu,thor custom,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Daihatsu,thor custom g,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2023,2025"
+Daihatsu,thor g grade,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,thor gs custom,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Daihatsu,thor gt custom,Petrol,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022
+Datsun,redi go,Petrol,hatchback,5,185,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016–2017
+Dongfeng,box e3 ev,Electric,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Fiat,punto,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007
+Ford,everest,Diesel,suv,7,225,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Ford,fiesta,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Ford,kuga,Petrol,suv,5,160,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Ford,mustang 5liter v8,Petrol,coupe/convertible,4,143,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Ford,mustang mach-e,Electric,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Ford,mustang mach-e premium x,Electric,suv,5,145,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Ford,ranger,Diesel,pickup,5,215,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2005,2015,2017,2019,2024"
+Ford,ranger 2200 4x4 svt trim,Diesel,pickup,5,215,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Ford,ranger ms-rt,Diesel,pickup,5,213,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Ford,ranger raptor,Diesel,pickup,5,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2016,2017,2018,2023,2025"
+Ford,ranger raptor bi-turbo,Diesel,pickup,5,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2019,2025"
+Ford,ranger raptor f150,Diesel,pickup,5,239,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2014,2017,2019"
+Ford,ranger raptor ms-rt,Diesel,pickup,5,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Ford,ranger raptor sports,Petrol,pickup,5,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Ford,ranger single cab,Diesel,pickup,5,213,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Ford,ranger stormtrak,Diesel,pickup,5,272,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Ford,ranger wildtrak,Diesel,pickup,5,237,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2017,2024,2025"
+Ford,ranger xlt,Diesel,pickup,5,237,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Honda,city,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2020
+Honda,city rs,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Honda,city sv,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Honda,city vtec,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Honda,civic,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2008,2017,2018,2019,2020"
+Honda,civic ex,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2018,2024"
+Honda,civic fb1,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Honda,civic fd3,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2009
+Honda,civic sedan,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2018,2020"
+Honda,civic sr,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Honda,cr-v,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2008,2013,2017,2018,2019,2020"
+Honda,cr-v rm,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2013
+Honda,cr-v vti l,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2019,2024,2025"
+Honda,cr-v vti lx,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,cr-z zf1,Hybrid,coupe,2,198,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Honda,fit,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2014
+Honda,fit,Petrol,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2015"
+Honda,fit f-grade,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Honda,fit gp1,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011–2014
+Honda,fit gp3 rs,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Honda,fit gp4 rs,Petrol,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Honda,fit gp5,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2017"
+Honda,fit gp5,Petrol,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2014
+Honda,fit gp5 f,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Honda,fit gp5 h grade,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Honda,fit gp5 l grade,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2014
+Honda,fit gp5 s garde,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Honda,fit gp5 s grade,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2016
+Honda,fit gp5 s grade rs,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Honda,fit l grade,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Honda,fit rs,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Honda,fit rs ehev,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Honda,fit rs gp-3,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Honda,fit shuttle,Hybrid,wagon,5,141,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"2011,2012,2014,2016,2023"
+Honda,fit shuttle,Petrol,wagon,5,141,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2013
+Honda,fit shuttle gp2,Hybrid,wagon,5,141,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2014
+Honda,fit shuttle gp2,Petrol,wagon,5,141,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2012
+Honda,fit shuttle gp2 navi premium,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Honda,fit shuttle gp7,Hybrid,wagon,5,141,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2022
+Honda,fit shuttle gp7 navi premium,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Honda,fit shuttle gp7 z sensing,Hybrid,hatchback,5,141,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Honda,freed,Hybrid,minivan,7,142,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2012
+Honda,freed,Petrol,minivan,7,142,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2013
+Honda,freed cross star 7 seater,Petrol,minivan,7,142,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Honda,freed gp3,Hybrid,minivan,7,142,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,"2013,2015"
+Honda,grace,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2017"
+Honda,grace,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2016
+Honda,grace daa gm4,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Honda,grace ex,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2017
+Honda,grace ex grade,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016–2017
+Honda,grace ex highest,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Honda,grace ex package,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2017,2019"
+Honda,grace ex package,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Honda,grace ex sensing,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Honda,grace gtace ex,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Honda,grace rs sensing,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Honda,insight,Hybrid,liftback,5,130,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,"2009,2019,2020"
+Honda,insight ze2,Hybrid,liftback,5,130,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2012
+Honda,insight ze4,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2019
+Honda,n-box,Petrol,kei / hatchback,4,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2025
+Honda,n-box base grade,Petrol,kei,4,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Honda,n-box custom,Petrol,kei,4,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2022,2023,2024,2025"
+Honda,n-box custom sensing,Hybrid,kei,4,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Honda,n-box highest grade,Petrol,kei,4,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022
+Honda,n-box n wagon,Petrol,kei,4,140,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Honda,n-one,Petrol,kei / hatchback,4,135,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Honda,n-wgn,Petrol,kei / hatchback,4,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Honda,n-wgn l,Petrol,kei/hatchback,4,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Honda,step wagon,Petrol,minivan,7,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Honda,vezel,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2013,2015,2018,2022"
+Honda,vezel,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2014,2016,2017,2023,2024,2025"
+Honda,vezel e-hev,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2022
+Honda,vezel hr-v,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Honda,vezel ivory,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2016,2023"
+Honda,vezel rs,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016–2018
+Honda,vezel rs sensing,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2017–2019
+Honda,vezel rs sensing,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Honda,vezel rv3,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Honda,vezel rv5 x,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,vezel rv5 x e-hev,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,vezel rv5 z,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,vezel rv5 z e-hev,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,vezel x,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2014,2022,2023,2024"
+Honda,vezel x e-hev,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,vezel x hunt,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2022,2024"
+Honda,vezel z,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2014,2015,2016,2017,2018,2022,2023"
+Honda,vezel z,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024–2025
+Honda,vezel z e-hev,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2023,2025"
+Honda,vezel z ivory,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Honda,vezel z navi-premium,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,wr-v z,Petrol,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Honda,zr-v z,Petrol,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Honda,zr-v z premium,Petrol,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Hyundai,accent,Diesel,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Hyundai,creta,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Hyundai,elantra,Petrol,sedan,5,167,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+Hyundai,eon,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014–2016
+Hyundai,eon magna plus,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2017"
+Hyundai,grand i10,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2018,2024,2025"
+Hyundai,ioniq,Hybrid,hatchback,5,142,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2020
+Hyundai,ioniq,Petrol,hatchback,5,142,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Hyundai,kona,Electric,suv,5,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020
+Hyundai,santa fe,Diesel,suv,7,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2013–2016
+Hyundai,santa fe 4wd,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2010
+Hyundai,santa fe calligraphy 4wd,Hybrid,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Hyundai,santa fe crd,Diesel,suv,7,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2013
+Hyundai,terracan,Diesel,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2006
+Hyundai,tucson,Diesel,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012–2014
+Hyundai,tucson,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011
+Hyundai,tucson ix 35,Diesel,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Hyundai,venue,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Hyundai,venue sx,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+JAC,t9,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+JMEV,elight,Electric,sedan/coupe,5,150,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Jaecoo,j6,Electric,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Jaecoo,j7 4wd,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Jaecoo,j7 phev,Hybrid,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Jaguar,e-pace p 250,Petrol,compact suv,5,204,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Jaguar,e-pace r dynamic,Petrol,compact suv,5,204,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Jaguar,f-pace r dynamic,Diesel,suv,5,213,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Jaguar,f-pace r-line,Diesel,suv,5,213,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Jaguar,xf,Diesel,sedan,5,138,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Jeep,wrangler,Diesel,suv,4,257,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2013,2015,2016"
+Jeep,wrangler gladiator,Petrol,pickup,5,257,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Jeep,wrangler rubicon,Petrol,suv,5,257,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2018,2024"
+Jeep,wrangler rubicon jl,Petrol,suv,5,257,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Jeep,wrangler sports,Diesel,suv,4,257,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Kia,carens clavis,Petrol,mpv,7,195,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,carnival,Diesel,mpv,7,180,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Kia,carnival grand,Diesel,muv,7,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Kia,cerato,Petrol,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+Kia,ev5,Electric,uv,5,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Kia,picanto,Petrol,hatchback,5,152,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2016,2017,2019"
+Kia,picanto sport,Petrol,hatchback,5,152,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016–2017
+Kia,rio gt line,Petrol,hatchback/sedan,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Kia,seltos gt line,Petrol,suv,5,172,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020
+Kia,sonet,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sonet gt line,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sonet gtx,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sorento,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2008,2012,2013,2014,2015"
+Kia,sorento,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2010–2011
+Kia,sorento 1-10,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2009–2010
+Kia,sorento 1-11,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Kia,sorento 1-12,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Kia,sorento 1-20,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015–2017
+Kia,sorento 1-24,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Kia,sorento 1-7,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Kia,sorento 1-8,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Kia,sorento 1-8,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2010
+Kia,sorento cadi,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011
+Kia,sorento crdi,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Kia,sorento crdi 1-14,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Kia,sorento ex,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2008
+Kia,sorento face lift,Diesel,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2013–2014
+Kia,sorento gt line,Hybrid,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sorento hev,Hybrid,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sorento sonet gxt,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Kia,sorento unit 1,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Kia,sorento unit 2,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Kia,sorento unit 3,Petrol,suv,7,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Kia,soul,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Kia,sportage,Diesel,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2008,2013,2014,2015"
+Kia,sportage,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2011,2012,2016,2018,2019"
+Kia,sportage lx,Diesel,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Kia,stonic,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019–2020
+Kia,stonic gt,Petrol,suv,5,182,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020
+Land Rover,defender,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2008,2010,2012"
+Land Rover,defender,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Land Rover,defender 110,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Land Rover,defender 110 hse,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,defender 110 p300e x-dynamic hse,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,defender 110 p400e x-dynamic hse,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,defender 110 puma,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Land Rover,defender 110 straight,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,defender 110 x-dynamic hse,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2023,2025"
+Land Rover,defender 130,Diesel,suv,7,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2005
+Land Rover,defender 2.2tdi,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+Land Rover,defender kahn,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2005
+Land Rover,defender p300 straight,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,defender p300e x-dynamic hse,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,defender p400e,Hybrid,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,defender p400e se,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,defender puma,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008–2009
+Land Rover,defender puma 2.2l,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+Land Rover,defender puma 2.2l td6 autobi,Diesel,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Land Rover,defender x-dynamic hse phev,Petrol,suv,5,226,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,discovery 4,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2007,2010,2012,2013,2015,2016"
+Land Rover,discovery 4 gs,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2014"
+Land Rover,discovery 4 hse,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2014"
+Land Rover,discovery 4 sdv6,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2012,2014,2016"
+Land Rover,discovery 4 vogue,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2014
+Land Rover,discovery 5,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2017,2019"
+Land Rover,discovery 5 dynamic hse,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017–2019
+Land Rover,discovery 5 hse,Diesel,suv,7,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018–2019
+Land Rover,discovery sport,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2015,2017"
+Land Rover,discovery sport dynamic hse p270e,Hybrid,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,discovery sport hse sml,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Land Rover,freelander 2,Diesel,suv,5,215,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011–2013
+Land Rover,freelander 2 sd4,Diesel,suv,5,215,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2011,2015"
+Land Rover,freelander 2 se,Diesel,suv,5,215,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Land Rover,freelander 2 td4,Diesel,suv,5,215,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2013"
+Land Rover,range,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Land Rover,range,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range autobiography,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,range autobiography,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018–2019
+Land Rover,range autobiography p400e,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018–2019
+Land Rover,range autobiography phev,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range evoque,Diesel,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Land Rover,range evoque,Hybrid,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range evoque autobiography p270e,Petrol,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range evoque dynamic hse,Petrol,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range evoque dynamic hse p270e phev,Hybrid,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Land Rover,range evoque dynamic hse p300,Petrol,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,range evoque dynamic hse phev,Hybrid,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,range evoque facelift,Diesel,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2012
+Land Rover,range evoque p300e phev,Hybrid,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Land Rover,range evoque p400 autobiography,Petrol,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range evoque td4,Diesel,suv,5,295,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Land Rover,range lwb,Petrol,suv,7,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018–2019
+Land Rover,range p270e dynamic phev,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Land Rover,range p400e autobiography,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2019,2025"
+Land Rover,range p400e autobiography p400e,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range p400e hse,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range p460e autobiography phev,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Land Rover,range phev,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range sport,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Land Rover,range sport,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range sport autobiography,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Land Rover,range sport autobiography,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018–2019
+Land Rover,range sport autobiography hse,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range sport hse,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017–2018
+Land Rover,range sport p400e autobioghraphy,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range sport p400e hse,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range velar,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range velar d240,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range velar r-dynamic,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range velar r-dynamic d240 hse,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Land Rover,range vogue,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range vogue autobiography,Diesel,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Land Rover,range vogue autobiography,Hybrid,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Land Rover,range vogue autobiography,Petrol,suv,5,219,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Lexus,lbx,Hybrid,suv,5,170,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Lexus,lbx elegant,Petrol,suv,5,170,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Lexus,lm500h,Petrol,mpv,7,139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Lexus,ls500,Petrol,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Lexus,ls600h,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2008
+Lexus,ls600h lwb,Hybrid,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Lexus,lx500d,Diesel,suv,5,205,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Lexus,lx570,Petrol,suv,5,225,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Lexus,lx600,Petrol,suv,7,205,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023–2024
+Lexus,rx400,Hybrid,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2007
+Lexus,rx400h,Hybrid,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2008
+Lexus,rx450h,Hybrid,suv,5,175,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2009,2011"
+MG,ep plus,Electric,station wagon,5,115,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2023
+MG,mg4 v long range,Petrol,hatchback,5,158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+MG,mg4 xpower,Electric,hatchback,5,158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+MG,mg4 xpower i-smart,Hybrid,hatchback,5,158,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+MG,zs,Petrol,suv,5,172,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2018,2019,2021"
+Mahindra,bolero,Diesel,pickup,2,185,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Mahindra,bolero maxi truck plus,Diesel,pickup,2,185,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Mahindra,e2o,Electric,hatchback,4,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2021
+Mahindra,genio,Diesel,pickup,5,190,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Mahindra,kuv100,Diesel,suv,6,170,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022–2024
+Mahindra,kuv100,Petrol,suv,6,170,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2020–2021
+Mahindra,scorpio,Diesel,suv,7,209,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Mahindra,xuv 3xo,Petrol,suv,5,201,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Mahindra,xuv500,Diesel,suv,7,201,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Maruti Suzuki,800,Petrol,hatchback,4,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2005–2012
+Maruti Suzuki,a-star,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011–2012
+Maruti Suzuki,a-star vxi,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+Maruti Suzuki,alto,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2006,2011,2015,2016"
+Maruti Suzuki,alto 800,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2011,2014,2015"
+Maruti Suzuki,alto 800 lxi,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2008,2015"
+Maruti Suzuki,alto k10,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2011,2015"
+Maruti Suzuki,alto k10 vxi,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011–2013
+Maruti Suzuki,alto lxi,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Maruti Suzuki,alto vxi,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+Maruti Suzuki,baleno,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016–2020
+Maruti Suzuki,celerio,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014–2016
+Maruti Suzuki,celerio vxi,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014–2016
+Maruti Suzuki,celerio x,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Maruti Suzuki,celerio zxi,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Maruti Suzuki,celerio zxi elegance,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Maruti Suzuki,estilo,Petrol,hacthback,5,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Maruti Suzuki,estilo vxi grade,Petrol,hacthback,5,165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Maruti Suzuki,ritz,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Maruti Suzuki,wagon r,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Maruti Suzuki,zen lxi,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Maruti Suzuki,zen vx,Petrol,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Mazda,2,Hybrid,hatchback / sedan,5,147,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Mazda,3,Petrol,hatchback / sedan,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2011,2014,2016"
+Mazda,3 bm,Petrol,hatchback / sedan,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Mazda,6,Petrol,sedan / wagon,5,165,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2013
+Mazda,6 skyactiv,Petrol,sedan / wagon,5,165,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2015
+Mazda,axela,Hybrid,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Mazda,axela,Petrol,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Mazda,axela skyactiv,Hybrid,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Mazda,axela skyactiv-sl,Hybrid,sedan / hatchback,5,140,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Mazda,cx-5,Diesel,suv,5,193,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2013
+Mazda,demio,Petrol,hatchback / sedan,5,142,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2009–2010
+Mazda,flair,Hybrid,kei / hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Mazda,flair crossover,Petrol,kei/hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Mazda,flair custom,Hybrid,kei/hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mazda,flair custom,Petrol,kei/hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mazda,flair spacia,Hybrid,kei/hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mazda,flair xg,Hybrid,kei/hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mercedes Benz,a180 amg premium plus,Hybrid,hatchback,5,110,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Mercedes Benz,a180 amg premium plus,Petrol,hatchback,5,110,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Mercedes Benz,a250e amg premium plus,Petrol,hatchback/sedan,5,110,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2022
+Mercedes Benz,a45 amg,Petrol,hatchback,5,110,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+Mercedes Benz,b250e,Electric,hatchback,5,135,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2016
+Mercedes Benz,c160,Petrol,sedan,5,164,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Mercedes Benz,c180,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2011,2012"
+Mercedes Benz,c180 amg,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mercedes Benz,c180 amg avangarde,Hybrid,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mercedes Benz,c180 cabriolet,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Mercedes Benz,c200,Petrol,sedan,5,118,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2019
+Mercedes Benz,c200 amg,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mercedes Benz,c200 amg premium plus,Petrol,sedan,5,118,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2018,2019,2022"
+Mercedes Benz,c200 amg premium plus,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2025
+Mercedes Benz,c220,Diesel,sedan,5,132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012–2013
+Mercedes Benz,c220 cdi,Diesel,sedan,5,132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Mercedes Benz,c230,Petrol,sedan,5,132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Mercedes Benz,c350 e,Petrol,sedan,5,132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Mercedes Benz,cla 180 amg,Petrol,sedan,5,117,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2016,2017,2024"
+Mercedes Benz,cla 180 premium plus,Petrol,sedan,5,117,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2022
+Mercedes Benz,cla 200,Petrol,sedan,5,117,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Mercedes Benz,cla 200 amg,Petrol,sedan,5,143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2020
+Mercedes Benz,cla 200 amg premium plus,Petrol,sedan,5,143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019–2020
+Mercedes Benz,cla 200 premier plus,Petrol,sedan,5,143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+Mercedes Benz,cla 250,Hybrid,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mercedes Benz,cla 250 amg premium plus,Hybrid,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Mercedes Benz,cla 250 premium plus,Electric,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2026
+Mercedes Benz,cla 250e,Hybrid,hatchback/sedan,5,150,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Mercedes Benz,cla 250e premium plus,Petrol,hatchback/sedan,5,150,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Mercedes Benz,cla45 amg,Petrol,hatchback,5,113,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Mercedes Benz,e200,Diesel,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,e200,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Mercedes Benz,e200 amg,Diesel,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2012
+Mercedes Benz,e200 amg,Petrol,sedan,5,149,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2019,2023"
+Mercedes Benz,e200 amg premium plus,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Mercedes Benz,e200 amg premium plus,Petrol,sedan,5,149,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2022,2023,2025"
+Mercedes Benz,e200 avantgarde,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,e200 cabriolet,Petrol,convertible,4,108,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,2022
+Mercedes Benz,e200 straight,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Mercedes Benz,e200 w211,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2006
+Mercedes Benz,e200 w212,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2010
+Mercedes Benz,e200 w212 cgi,Petrol,sedan,5,108,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2010
+Mercedes Benz,e220,Diesel,sedan / wagon / coupe ,5,111,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"2011,2015,2019"
+Mercedes Benz,e220 amg straight,Diesel,sedan / wagon / coupe ,5,111,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,e250,Diesel,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,e250 amg,Diesel,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2012
+Mercedes Benz,e300,Diesel,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014–2016
+Mercedes Benz,e300,Hybrid,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,e300 amg,Petrol,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017–2018
+Mercedes Benz,e300 amg premium plus,Petrol,sedan,5,113,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Mercedes Benz,e350,Petrol,sedan,5,122,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017–2018
+Mercedes Benz,e350 amg premium plus,Petrol,sedan,5,122,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Mercedes Benz,eqb 250 amg,Electric,suv,5,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mercedes Benz,eqb 300 amg premium plus,Electric,suv,5,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mercedes Benz,eqe 300 amg,Electric,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Mercedes Benz,eqe 300 amg premium plus,Electric,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Mercedes Benz,eqs 450 amg,Electric,sedan,5,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Mercedes Benz,eqs 450 amg business class,Electric,sedan,5,110,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Mercedes Benz,g400d,Diesel,suv,5,241,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Mercedes Benz,g450d,Diesel,suv,5,241,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Mercedes Benz,g450d,Hybrid,suv,5,241,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Mercedes Benz,g800 amg,Petrol,suv,5,241,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Mercedes Benz,gla 180,Petrol,suv,5,157,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Mercedes Benz,gla 200 amg line,Petrol,suv,5,183,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Mercedes Benz,glb 180 premium plus,Petrol,suv,7,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Mercedes Benz,glb 200 amg premium plus,Petrol,suv,7,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2020,2024,2025"
+Mercedes Benz,glb 200 premium plus,Petrol,suv,7,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mercedes Benz,gle 300d,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019–2020
+Mercedes Benz,gle 300d 4matic,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Mercedes Benz,gle 300d airmatic premium plus,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Mercedes Benz,gle 300d amg,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Mercedes Benz,gle 300d premium plus,Diesel,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2020
+Mercedes Benz,gle 400 amg premium plus,Petrol,suv,5,212,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Mercedes Benz,gls 350,Diesel,suv,7,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Mercedes Benz,gls 400,Petrol,suv,7,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Mercedes Benz,ml350,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2010
+Mercedes Benz,s300 amg line,Diesel,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2016
+Mercedes Benz,s300 phev,Hybrid,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2017
+Mercedes Benz,s350,Petrol,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2009
+Mercedes Benz,s400,Petrol,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Mercedes Benz,s400 lwb,Petrol,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2014
+Mercedes Benz,s400 lwb amg phev,Hybrid,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2013
+Mercedes Benz,s400 premium plus,Petrol,sedan,5,112,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+Mercedes Benz,s500 lwb amg phev,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+Mercedes Benz,s500 lwb amg premium plus,Petrol,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+Mercedes Benz,s500 phev,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015–2016
+Mercedes Benz,s580e,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2025
+Mercedes Benz,s580e amg premium,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2025
+Mercedes Benz,vito,Diesel,van,9,115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2017
+Mercedes Benz,vito 116 cdi mixto,Diesel,van,6,115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2017
+Mercedes Benz,x250d,Diesel,pickup,5,220,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
