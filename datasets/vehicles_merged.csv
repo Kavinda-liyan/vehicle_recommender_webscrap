@@ -605,3 +605,491 @@ Mercedes Benz,s580e amg premium,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 Mercedes Benz,vito,Diesel,van,9,115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2017
 Mercedes Benz,vito 116 cdi mixto,Diesel,van,6,115,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,2017
 Mercedes Benz,x250d,Diesel,pickup,5,220,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Micro,actyon 2000,Diesel,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2007–2008
+Micro,actyon cab,Diesel,pickup,5,209,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Micro,actyon sports,Diesel,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2009
+Micro,almaz,Petrol,suv,7,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2022
+Micro,baic x25,Petrol,suv,5,178,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2017
+Micro,korondo,Diesel,suv,5,164,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012–2013
+Micro,kyron,Diesel,suv,7,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2007,2008,2009,2011,2012"
+Micro,kyron 200xdi,Diesel,suv,7,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Micro,kyron 4wd,Diesel,suv,7,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2009–2010
+Micro,kyron m200,Diesel,suv,7,211,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2010
+Micro,mx 7,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Micro,panda,Petrol,hatchback,4,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2011–2018
+Micro,panda cross,Petrol,hatchback,4,161,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2013,2015"
+Micro,panda lc 1.0,Petrol,hatchback,4,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015
+Micro,panda lc 1.3,Petrol,hatchback,4,121,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2011
+Micro,rexton,Diesel,suv,7,203,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Micro,rexton rx 270,Diesel,suv,7,203,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Micro,tivoli,Diesel,suv,5,160,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Micro,tivoli,Petrol,suv,5,160,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2018"
+Micro,trend,Petrol,hatchback,5,123,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2012–2013
+Micro,trend,Petrol,hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2009
+Mitsubishi,attrage,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Mitsubishi,delica mini,Petrol,kei / minivan,4,160,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Mitsubishi,delica mini t premium,Hybrid,kei/minivan,4,160,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023–2024
+Mitsubishi,eclipse cross,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018–2019
+Mitsubishi,eclipse cross g plus,Petrol,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Mitsubishi,ek custom,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek custom,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Mitsubishi,ek custom x,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Mitsubishi,ek space,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek space x,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek wagon,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek wagon,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2016,2018,2024"
+Mitsubishi,ek wagon dayz,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Mitsubishi,ek wagon g,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mitsubishi,ek wagon m,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek wagon r,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Mitsubishi,ek wagon x,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Mitsubishi,ek x,Hybrid,suv,5,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mitsubishi,ek x g premium,Hybrid,suv,5,155,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Mitsubishi,l200,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2007,2008,2011,2012,2016,2020"
+Mitsubishi,l200 sportero,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2012,2019,2020"
+Mitsubishi,l200 sportero did,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Mitsubishi,l200 triton,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2020
+Mitsubishi,l200 triton athlete,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Mitsubishi,l200 trojan,Diesel,pickup,5,202,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Mitsubishi,lancer cs1,Petrol,sedan,5,175,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2007
+Mitsubishi,lancer cs2,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007
+Mitsubishi,lancer evolution ix,Petrol,sedan,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Mitsubishi,lancer jy 1,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Mitsubishi,montero,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2006,2008,2010,2011,2012,2013,2014,2015,2016,2017"
+Mitsubishi,montero,Petrol,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2005
+Mitsubishi,montero gls,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2013,2015"
+Mitsubishi,montero gls,Petrol,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Mitsubishi,montero glx,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2015
+Mitsubishi,montero sports,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2007,2008,2011,2012,2013,2017"
+Mitsubishi,montero v6,Petrol,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2005
+Mitsubishi,montero v76,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2006
+Mitsubishi,montero v78,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2006
+Mitsubishi,montero v98,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2014
+Mitsubishi,montero v98 glx,Diesel,suv,7,218,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Mitsubishi,outlander,Hybrid,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2015
+Mitsubishi,outlander,Petrol,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016–2017
+Mitsubishi,outlander phev,Hybrid,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2016
+Mitsubishi,outlander straight,Petrol,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Mitsubishi,pajero,Diesel,suv,7,213,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Mitsubishi,triton gsr,Diesel,pickup,5,215,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023–2024
+Mitsubishi,xpander,Petrol,mpv,7,205,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2018,2020"
+Mitsubishi,xpander gls,Petrol,muv,7,205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Nissan,almera,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Nissan,almera el,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Nissan,almera el sport,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,almera vl,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Nissan,aura g leather sport,Hybrid,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Nissan,aura nismo,Hybrid,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Nissan,aura nismo limited,Hybrid,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Nissan,cefiro 230jk j31,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Nissan,clipper,Petrol,kei / minivan,5,160,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,clipper gx,Petrol,kei/minivan,5,160,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,clipper rio,Petrol,kei/minivan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023–2024
+Nissan,dayz,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Nissan,dayz,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2016,2017,2018,2023,2024"
+Nissan,dayz basic,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Nissan,dayz bolero,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,dayz costom g,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz ek wagon,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,dayz g,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz g propilot,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,dayz highway star,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2019,2023,2024"
+Nissan,dayz highway star g,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,dayz highway star g,Petrol,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018
+Nissan,dayz highway star propilot,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Nissan,dayz highway star s,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,dayz highway star x,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Nissan,dayz highway star x propilot,Hybrid,hatchback,4,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Nissan,dayz hihgway star x,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz roox,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz roox x,Hybrid,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz s,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Nissan,dayz x,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2023,2024"
+Nissan,dayz x wagon,Petrol,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Nissan,juke,Petrol,suv,5,172,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020
+Nissan,juke 15rx v-selection,Petrol,suv,5,172,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Nissan,kicks x grade,Electric,suv,5,213,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Nissan,lafesta,Petrol,mpv,7,142,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Nissan,leaf,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2013,2014,2015,2017"
+Nissan,leaf acenta,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014–2015
+Nissan,leaf aze0,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2015
+Nissan,leaf aze0 x,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Nissan,leaf g,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Nissan,leaf visia,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Nissan,leaf zeo,Electric,hatchback,5,155,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Nissan,magnite acenta,Petrol,suv,5,205,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Nissan,magnite tekna,Petrol,suv,5,205,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Nissan,navara,Diesel,pickup,5,235,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2006–2008
+Nissan,navara aventura,Diesel,pickup,5,220,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Nissan,navara d23,Diesel,pickup,5,213,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Nissan,navara np300,Diesel,pickup,5,228,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Nissan,note aura g,Hybrid,hatchback,5,120,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024–2025
+Nissan,patrol,Petrol,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Nissan,patrol 3l,Diesel,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Nissan,patrol y61,Diesel,suv,7,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2005,2015"
+Nissan,patrol y61 grx,Diesel,suv,7,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Nissan,patrol y61 sgl,Diesel,suv,7,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Nissan,patrol y61 td42 sgl,Diesel,suv,7,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2010
+Nissan,patrol zd30,Diesel,suv,7,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Nissan,qashqai tekna,Petrol,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Nissan,qashqai tekna plus,Petrol,suv,5,188,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Nissan,roox highway star x,Hybrid,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023
+Nissan,roox highway star x,Petrol,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2024
+Nissan,roox highway star x g,Hybrid,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2022
+Nissan,roox highway star x g pro,Hybrid,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2024
+Nissan,roox highway star x propilot,Hybrid,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023–2024
+Nissan,roox highway star x took,Hybrid,kei / microvan,4,155,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023
+Nissan,sakura ev,Electric,kei / microvan,4,150,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023
+Nissan,sakura x ev,Electric,kei / microvan,4,150,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2024
+Nissan,serena e power hs,Hybrid,mpv / minivan,7,142,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2024
+Nissan,sunny fb15,Petrol,sedan,5,135,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Nissan,sunny n13,Diesel,sedan,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2005
+Nissan,sunny n16 super saloon,Petrol,sedan,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+Nissan,sunny n17 super saloon,Petrol,sedan,5,161,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Nissan,sylphy,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Nissan,tiida,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007–2008
+Nissan,tiida latio,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007
+Nissan,x-trail,Diesel,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Nissan,x-trail,Hybrid,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Nissan,x-trail,Petrol,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2015,2017,2018"
+Nissan,x-trail mode premier,Hybrid,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2015,2017"
+Nissan,x-trail mode premier,Petrol,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Nissan,x-trail t30,Petrol,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Nissan,x-trail t31,Diesel,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2013"
+Nissan,x-trail t32,Hybrid,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Perodua,axia,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2017
+Perodua,axia cas,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Perodua,axia g,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2017
+Perodua,bezza,Petrol,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2018,2020"
+Perodua,viva elite,Petrol,hatchback,5,145,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010–2013
+Peugeot,2008,Petrol,suv,5,221,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019
+Peugeot,2008 gt line,Petrol,suv,5,221,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2023,2025"
+Peugeot,3008,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019–2020
+Peugeot,3008 active,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Peugeot,3008 allure,Petrol,suv,5,154,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2019
+Peugeot,3008 gt line,Petrol,suv,5,198,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Peugeot,5008,Petrol,suv,7,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2019
+Peugeot,5008 allure,Petrol,suv,7,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Peugeot,5008 gt line,Hybrid,suv,7,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Peugeot,5008 gt line,Petrol,suv,7,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018–2020
+Peugeot,5008 gt line mhev,Hybrid,suv,7,191,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Peugeot,508,Diesel,sedan,5,142,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015–2016
+Peugeot,e-2008,Electric,suv,5,196,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Porsche,718 cayman style edition,Petrol,coupe,2,128,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Porsche,911 carrera 3l sports+,Petrol,coupe,2,112,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,2025
+Porsche,cayenne,Hybrid,suv,5,193,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+Porsche,cayenne,Petrol,suv,5,193,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011
+Porsche,cayenne s,Hybrid,suv,5,193,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Porsche,panamera 4,Petrol,sedan,4,124,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2018
+Renault,kwid,Petrol,hatchback,5,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016–2017
+Renault,kwid climber exchnge,Petrol,hatchback,5,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020
+Renault,kwid rtx,Petrol,hatchback,5,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Renault,kwid rxt,Petrol,hatchback,5,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Renault,kwid rxt sports exchange,Petrol,hatchback,5,184,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2017
+SsangYong,korando,Diesel,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2012
+SsangYong,kyron,Diesel,suv,5,216,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2008,2011"
+SsangYong,rexton,Diesel,suv,7,203,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015–2016
+SsangYong,tivoli,Petrol,suv,5,160,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+SsangYong,torres evx,Electric,suv,5,169,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Subaru,crosstrek,Hybrid,suv,5,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Subaru,xv,Hybrid,suv,5,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+Subaru,xv eyesight,Hybrid,suv,5,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013
+Suzuki,alto,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,alto,Petrol,hatchback,4,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2013,2016,2018"
+Suzuki,alto a grade,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Suzuki,alto g grade,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Suzuki,alto l grade,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2017,2023,2024"
+Suzuki,alto lapin,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,alto rs,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Suzuki,alto s,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Suzuki,alto s grade,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,alto s grade,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Suzuki,alto sports,Petrol,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Suzuki,alto x grade,Hybrid,hatchback,4,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,every full join,Petrol,kei/lightrv/minivan,4,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2025
+Suzuki,every pa limited,Petrol,kei/lightrv/minivan,4,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023–2025
+Suzuki,every wagon,Petrol,kei/lightrv/minivan,4,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024–2025
+Suzuki,fronx,Hybrid,suv,5,190,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Suzuki,grand vitara,Petrol,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2007,2013"
+Suzuki,hustler,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2017,2018,2023"
+Suzuki,hustler,Petrol,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2015,2016,2024"
+Suzuki,hustler g,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2023,2025"
+Suzuki,hustler g,Petrol,kei / lightrv/ hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Suzuki,hustler g grade,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Suzuki,hustler j style,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2015,2023,2025"
+Suzuki,hustler j style,Petrol,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2016,2024"
+Suzuki,hustler though wild,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024–2025
+Suzuki,hustler x grade,Hybrid,kei / lightrv / hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Suzuki,ignis,Petrol,hatchback,5,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Suzuki,jimny,Petrol,suv,4,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2017,2018,2020,2025"
+Suzuki,liana,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2005
+Suzuki,s-cross,Petrol,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Suzuki,s-cross sx4,Petrol,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2018
+Suzuki,spacia,Hybrid,kei / microvan,5,150,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023–2025
+Suzuki,spacia,Petrol,kei / microvan,5,150,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2015–2018
+Suzuki,spacia custom,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,"2016,2018,2022,2023,2024,2025"
+Suzuki,spacia custom,Petrol,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,"2015,2017"
+Suzuki,spacia custum,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia flair wagon xs,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia g,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Suzuki,spacia g,Petrol,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia g grade,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia gs custom,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024–2025
+Suzuki,spacia gs grade,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia gx,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia x grade,Petrol,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2015
+Suzuki,spacia xs custom,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,"2023,2025"
+Suzuki,spacia xs custom,Petrol,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2024
+Suzuki,spacia xs plus,Hybrid,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,spacia xz custom,Petrol,kei/microvan,5,150,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,swift,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,swift,Petrol,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2006,2007,2008,2009,2010,2017,2018"
+Suzuki,swift rs,Hybrid,hatchback,5,163,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,swift rs,Petrol,hatchback,5,163,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2017,2018,2019"
+Suzuki,vitara,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2013,2019"
+Suzuki,wagon r,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Suzuki,wagon r,Hybrid,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2017,2019"
+Suzuki,wagon r,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,wagon r,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2014,2016,2018,2020"
+Suzuki,wagon r custom z,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Suzuki,wagon r custom z,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Suzuki,wagon r fx,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2022,2025"
+Suzuki,wagon r fx,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2017,2018,2020,2023,2024"
+Suzuki,wagon r fz,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2016,2019,2022"
+Suzuki,wagon r fz,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2017,2018,2023,2025"
+Suzuki,wagon r stingray,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2019,2025"
+Suzuki,wagon r stingray,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2016,2017,2018,2023"
+Suzuki,wagon r zt,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,wagon r zt,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022
+Suzuki,wagon r zx,Hybrid,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2022,2025"
+Suzuki,wagon r zx,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Suzuki,xbee,Hybrid,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2018,2024"
+Suzuki,xbee,Petrol,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2019,2023"
+Suzuki,xbee mv,Petrol,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023
+Suzuki,xbee mz,Hybrid,suv,5,180,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2025
+Tata,207d,Diesel,pickup,2,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2006
+Tata,indica,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2007,2015"
+Tata,indica ev2,Petrol,hatchback,5,165,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Tata,indigo,Diesel,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006–2007
+Tata,nano,Petrol,hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2011,2012,2015,2016"
+Tata,nano cx,Petrol,hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2011–2012
+Tata,nano genx,Petrol,hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2016
+Tata,nano twist,Petrol,hatchback,4,180,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Tata,nexon,Petrol,suv,5,208,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Tata,tiago,Electric,hatchback,5,170,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Tata,xenon,Diesel,pickup,2,205,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2012,2015"
+Tesla,model 3,Electric,sedan,5,138,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Tesla,model s,Electric,sedan,5,117,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2015–2016
+Tesla,model y,Electric,suv,7,167,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Toyota,4runner,Diesel,suv,5,244,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023–2024
+Toyota,allion 240,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2007"
+Toyota,allion 260,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2010,2011,2013"
+Toyota,allion 260 g,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2014
+Toyota,allion 260g,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017
+Toyota,allion a15 g,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2008
+Toyota,allion g,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2010,2012,2014,2016,2017,2018"
+Toyota,allion nzt260,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2018"
+Toyota,alphard advance premium,Hybrid,mpv/minivan,7,165,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,2015
+Toyota,alphard executive lounge,Hybrid,mpv/minivan,7,165,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,"2016,2024,2025"
+Toyota,aqua,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2015,2022"
+Toyota,aqua,Petrol,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2013,2014,2018"
+Toyota,aqua eagle eye,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2017–2018
+Toyota,aqua g,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2013,2015,2022,2024"
+Toyota,aqua g,Petrol,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2012,2014"
+Toyota,aqua gr sport,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023–2024
+Toyota,aqua gs,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Toyota,aqua s,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013–2015
+Toyota,aqua s,Petrol,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012
+Toyota,aqua x urban,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Toyota,aqua x urban g,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Toyota,aqua z,Hybrid,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024–2025
+Toyota,auris,Petrol,hatchback,5,140,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Toyota,avanza,Petrol,mpv / minivan,7,190,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,2011
+Toyota,avanza g,Petrol,mpv/minivan,7,190,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,2011
+Toyota,axio,Hybrid,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2015,2018"
+Toyota,axio,Petrol,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2008,2009,2013,2016,2017,2019"
+Toyota,axio 141,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2008,2010"
+Toyota,axio 141 g,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Toyota,axio 141 x,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2010
+Toyota,axio 161 g,Hybrid,sedan,5,170,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Toyota,axio 165 g,Hybrid,sedan,5,170,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016
+Toyota,axio corolla,Petrol,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2024
+Toyota,axio corolla g,Hybrid,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Toyota,axio ex,Hybrid,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022
+Toyota,axio fielder g,Hybrid,station wagon,5,155,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2014
+Toyota,axio g,Hybrid,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2014,2016,2017,2018,2022,2023,2024,2025"
+Toyota,axio g,Petrol,sedan,5,165,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2010,2011,2015"
+Toyota,axio nke 165,Hybrid,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022
+Toyota,axio nke 165 ex,Hybrid,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Toyota,axio wxb,Hybrid,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2018–2019
+Toyota,axio wxb,Petrol,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2016–2017
+Toyota,axio x,Hybrid,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014–2015
+Toyota,axio x,Petrol,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2007,2008,2009,2011,2013"
+Toyota,belta,Petrol,sedan,5,155,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007–2010
+Toyota,c-hr,Petrol,suv / crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,"2017,2018,2019,2022,2023"
+Toyota,c-hr gr sport black,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2023
+Toyota,c-hr gt,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2017–2018
+Toyota,c-hr gt bruno neuro,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2023
+Toyota,c-hr gt mode nero safety plus,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2023
+Toyota,c-hr ngx10,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2018–2019
+Toyota,c-hr ngx10 eagles eye,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2019
+Toyota,c-hr ngx10 gt,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,"2018,2023"
+Toyota,c-hr ngx50,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2017–2018
+Toyota,c-hr ngx50 gt,Petrol,suv/crossover,5,150,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,2017
+Toyota,camry,Hybrid,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2012–2013
+Toyota,camry,Petrol,sedan,5,145,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Toyota,corolla,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2023
+Toyota,corolla,Petrol,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Toyota,corolla,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2008,2014"
+Toyota,corolla 121,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Toyota,corolla 121 g,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Toyota,corolla 121 lx,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2006
+Toyota,corolla 141,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2008
+Toyota,corolla 141 gli,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2013
+Toyota,corolla 141 lx,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2008
+Toyota,corolla 141 xli,Diesel,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2011
+Toyota,corolla cross,Hybrid,suv,5,130,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2025
+Toyota,corolla cross,Petrol,suv,5,130,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Toyota,corolla cross z,Hybrid,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2023,2025"
+Toyota,corolla g,Petrol,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2024
+Toyota,corolla sport gz,Petrol,sedan,5,130,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,2022
+Toyota,corolla wxb,Petrol,wagon / station wagon,5,130,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,2022–2024
+Toyota,crown athlete s,Hybrid,sedan,5,140,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2014
+Toyota,crown estate z,Hybrid,wagon/station wagon,5,140,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2025
+Toyota,crown majesta,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007
+Toyota,crown sport z,Hybrid,suv,5,147,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2025
+Toyota,esquire,Hybrid,mpv / minivan,7,155,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1,1,0,0,2015
+Toyota,fielder,Hybrid,station wagon,5,155,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,2023
+Toyota,fortuner,Diesel,suv,7,225,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2012,2013,2017"
+Toyota,fortuner,Petrol,suv,7,225,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2006,2014,2016"
+Toyota,harrier,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014–2015
+Toyota,harrier,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2011,2017,2019"
+Toyota,harrier advance premium,Hybrid,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2014
+Toyota,harrier advance premium,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2015
+Toyota,harrier elegance,Petrol,suv,5,185,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2017
+Toyota,harrier g,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Toyota,harrier premium,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Toyota,harrier z,Hybrid,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Toyota,harrier z,Petrol,suv,5,195,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2024
+Toyota,hilux,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2006,2007,2008,2009,2010,2011,2016,2017,2018,2019"
+Toyota,hilux,Diesel,pickup,5,279,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux 166,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2005
+Toyota,hilux 3l,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2017"
+Toyota,hilux 3l 1kd,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Toyota,hilux b5 rocco,Diesel,pickup,5,279,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux b5 rocco,Petrol,pickup,5,270,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2020
+Toyota,hilux champ,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2012
+Toyota,hilux champ,Diesel,pickup,5,279,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux gr sport,Diesel,pickup,5,270,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2019,2022,2023,2024,2025"
+Toyota,hilux invisible,Diesel,pickup,5,210,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2008
+Toyota,hilux revo,Diesel,pickup,5,200,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2016,2017,2018,2019,2024,2025"
+Toyota,hilux revo gr sport,Diesel,pickup,5,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux revo modellist,Diesel,pickup,5,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux revo modellista,Diesel,pickup,5,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux rocco,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2018,2019,2024,2025"
+Toyota,hilux rocco b5,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2020,2025"
+Toyota,hilux rocco gr sport,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2020,2025"
+Toyota,hilux rocco modelista,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,hilux smart cab,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2005,2010"
+Toyota,hilux v grade,Diesel,pickup,5,217,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2019–2020
+Toyota,hilux vigo,Diesel,pickup,5,200,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2006,2007,2008,2009,2010,2014"
+Toyota,hilux vigo g grade,Diesel,pickup,5,200,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2006
+Toyota,hilux z,Diesel,pickup,5,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Toyota,hilux z gr sport,Diesel,pickup,5,216,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023–2024
+Toyota,ist,Petrol,hatchback,5,145,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2007–2008
+Toyota,land cruiser 300,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser 300 zx,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser 79,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Toyota,land cruiser 79 v8,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Toyota,land cruiser prado,Diesel,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2005,2007,2011,2012,2013,2014,2015,2017,2018,2024"
+Toyota,land cruiser prado,Petrol,suv,7,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2022,2023,2025"
+Toyota,land cruiser prado 120,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Toyota,land cruiser prado 120 gx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Toyota,land cruiser prado 150,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2013,2014,2017"
+Toyota,land cruiser prado 150,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2015,2016,2023"
+Toyota,land cruiser prado 150 tx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2009,2012,2016"
+Toyota,land cruiser prado 150 tx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2015,2023"
+Toyota,land cruiser prado 150 vx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Toyota,land cruiser prado 250,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser prado 250 vx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser prado 250 zx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser prado 76,Diesel,suv,7,230,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+Toyota,land cruiser prado 76,Petrol,suv,7,230,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Toyota,land cruiser prado g frontier,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Toyota,land cruiser prado trj 150,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2010,2015"
+Toyota,land cruiser prado trj 150,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Toyota,land cruiser prado trj 150 tx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2013,2015,2023"
+Toyota,land cruiser prado trj 150 tx gr sport,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2011
+Toyota,land cruiser prado trj 250,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser prado trj 250 vx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser prado tx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014–2015
+Toyota,land cruiser prado tx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2017,2023"
+Toyota,land cruiser prado tx 150,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2013–2014
+Toyota,land cruiser prado tx 150,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2015,2023"
+Toyota,land cruiser prado txl,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2014,2015,2018,2020,2023"
+Toyota,land cruiser prado tzg,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017–2018
+Toyota,land cruiser prado v8,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2015"
+Toyota,land cruiser prado vx,Diesel,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2014,2017"
+Toyota,land cruiser prado vx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser prado vx 250,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser prado zx,Petrol,suv,7,220,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,land cruiser sahara,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2013,2015,2016,2017,2024,2025"
+Toyota,land cruiser sahara 200,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2010
+Toyota,land cruiser sahara 202 v8 zx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016
+Toyota,land cruiser sahara 300,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser sahara 300 modelista,Petrol,hatchback,7,235,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,land cruiser sahara 300 modelista zx,Petrol,hatchback,7,235,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,land cruiser sahara 300 vx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser sahara 300 zx,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,land cruiser sahara 300 zx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023–2024
+Toyota,land cruiser sahara 300 zx modelista,Petrol,hatchback,7,235,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser sahara 300 zx modellista,Petrol,hatchback,7,235,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2023
+Toyota,land cruiser sahara 300 zx v6,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser sahara 300 zx v6,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
+Toyota,land cruiser sahara cygnus v8,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2006
+Toyota,land cruiser sahara hzj76,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2017
+Toyota,land cruiser sahara hzj79,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2018
+Toyota,land cruiser sahara lj79,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2014
+Toyota,land cruiser sahara spex zx,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024
+Toyota,land cruiser sahara v8,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2013,2015,2016"
+Toyota,land cruiser sahara v8,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2008,2012,2017"
+Toyota,land cruiser sahara v8 cygnus,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2007
+Toyota,land cruiser sahara v8 vx,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2016–2017
+Toyota,land cruiser sahara v8 vx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2010
+Toyota,land cruiser sahara v8 zx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2009,2016"
+Toyota,land cruiser sahara vx v8,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,"2011,2013,2014,2016,2017,2019"
+Toyota,land cruiser sahara zx,Petrol,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2024–2025
+Toyota,land cruiser v8,Diesel,suv,7,235,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2015
+Toyota,passo,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2005,2008,2009,2010,2016,2017,2018,2023"
+Toyota,passo moda,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2023"
+Toyota,passo moda rs,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Toyota,passo x,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2023
+Toyota,passo xl,Petrol,hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2022–2023
+Toyota,pixis,Petrol,kei / hatchback,5,160,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2016,2017,2023"
+Toyota,pixis epoch,Petrol,kei / hatchback,5,150,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2015
+Toyota,pixis l,Petrol,kei / microvan,5,160,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,0,2023
+Toyota,premio,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2010,2011,2013,2016,2017,2018,2019"
+Toyota,premio 260 g superior,Petrol,sedan,5,150,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2013,2020"
+Toyota,premio g superior,Petrol,sedan,5,160,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2010,2011,2013,2014,2015,2016,2017,2018,2019,2020"
+Toyota,prius,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,"2011,2014,2017,2024,2025"
+Toyota,prius,Petrol,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,"2008,2009,2010,2012,2013,2016"
+Toyota,prius g sport,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2013
+Toyota,prius s,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,"2011,2012,2014"
+Toyota,prius s,Petrol,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2013
+Toyota,prius s touring,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,"2009,2011,2012,2013"
+Toyota,prius u,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,"2023,2025"
+Toyota,prius x,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2023
+Toyota,prius z,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2025
+Toyota,prius z grade,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2024
+Toyota,prius zvw50,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2016
+Toyota,prius zw30,Hybrid,liftback,5,142,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,2014
+Toyota,raize,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2020–2025
+Toyota,raize g,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2022–2024
+Toyota,raize rs,Hybrid,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Toyota,raize x,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2023–2024
+Toyota,raize z,Hybrid,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2022,2024,2025"
+Toyota,raize z,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,"2020,2023"
+Toyota,raize z modalista,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2024
+Toyota,raize z modelista,Hybrid,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2025
+Toyota,raize z modelista,Petrol,suv,5,200,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,2022–2023
+Toyota,urban cruiser hyryder,Hybrid,suv,5,210,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,2025
