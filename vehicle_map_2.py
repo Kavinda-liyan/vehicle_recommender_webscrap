@@ -231,6 +231,8 @@ vehicle_map_2 = {
             "yaris": 5,
             "yaris ativ": 5,
             "yaris cross": 5,
+            "vanguard": 7,
+            "wigo": 5,
         },
         "body_type": {
             "4runner": "suv",
@@ -295,7 +297,19 @@ vehicle_map_2 = {
             "yaris cross z": "suv",
             "yaris cross z adventure hev": "suv",
             "yaris": "hatchback",
+            "vanguard": "suv",
+            "wigo": "hatchback",
+
         },
-        "ground_clearance": {},
+        
     },
+    "Volkswagen": {
+        "seating_capacity": {"beetle": 4, "golf gt line": 4, "id 4 pro": 5,"id 5 pro":5,"polo":5,"t-cross":5,"tiguan":5,"tiguan allspace":7},
+        "body_type": {"beetle": "hatchback", "golf gt line": "convertible", "id 4 pro": "suv","id 5 pro": "suv","polo": "hatchback",
+                      "t-cross": "suv","tiguan": "suv"},
+    },
+    "Zotye": {
+        "seating_capacity": {"z100": 5},
+        "body_type": {"z100": "hatchback"},
+    }
 }
